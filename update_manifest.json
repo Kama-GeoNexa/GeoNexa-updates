@@ -2,5 +2,21 @@
   "app_version": "1.0.0",
   "app_exe_url": "",
   "app_exe_sha256": "",
-  "modules": {}
+  "modules": {
+    "clustering_tools.cp314-win_amd64.pyd": {
+      "version": "1.0.0",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.0/clustering_tools.cp314-win_amd64.pyd",
+      "sha256": "9a08be9be59941e494d046d7521d934fe67f1fa5b65e2cbea01b7fca63d47dd4"
+    },
+    "extraction_tools.cp314-win_amd64.pyd": {
+      "version": "1.0.0",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.0/extraction_tools.cp314-win_amd64.pyd",
+      "sha256": "8001c1e1f5a408bcb38d0fadf54a4a27bedcd46be9eb956ec89cc0198855219c"
+    },
+    "odbc_tools.cp314-win_amd64.pyd": {
+      "version": "1.0.0",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.0/odbc_tools.cp314-win_amd64.pyd",
+      "sha256": "ab28ad46c9e525ec0b887bf580a97afec3e691a2ff4784accc8a7155a67054e7"
+    }
+  }
 }
