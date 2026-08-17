@@ -1,22 +1,23 @@
 {
-  "app_version": "1.0.0",
-  "app_exe_url": "",
-  "app_exe_sha256": "",
+  "app_version": "1.1.1",
+  "app_exe_url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/GeoNexa.exe",
+  "app_exe_sha256": "462507ece6ca5d463bdd65f00175c0b06bad6fe124dc80cbc0e9c0f54b2868c5",
+  "app_notes": "GeoNexa 1.1.1 stable release",
   "modules": {
-    "clustering_tools.cp314-win_amd64.pyd": {
-    "version": "1.0.1",
-    "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.1/clustering_tools.cp314-win_amd64.pyd",
-    "sha256": "9a08be9be59941e494d046d7521d934fe67f1fa5b65e2cbea01b7fca63d47dd4"
-    },
     "extraction_tools.cp314-win_amd64.pyd": {
-      "version": "1.0.0",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.0/extraction_tools.cp314-win_amd64.pyd",
-      "sha256": "8001c1e1f5a408bcb38d0fadf54a4a27bedcd46be9eb956ec89cc0198855219c"
+      "version": "1.1.1",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/extraction_tools.cp314-win_amd64.pyd",
+      "sha256": "7ee4a2e86a97f10d54de2c97ca4fcd192e80ebf328d70dda359e89fa9a75cb8f"
     },
     "odbc_tools.cp314-win_amd64.pyd": {
-      "version": "1.0.0",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.0.0/odbc_tools.cp314-win_amd64.pyd",
-      "sha256": "ab28ad46c9e525ec0b887bf580a97afec3e691a2ff4784accc8a7155a67054e7"
+      "version": "1.1.1",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/odbc_tools.cp314-win_amd64.pyd",
+      "sha256": "aecc50f9317c78dec41fcc163d11d60cc0828bafe7de513530260376f16ea90f"
+    },
+    "clustering_tools.cp314-win_amd64.pyd": {
+      "version": "1.1.1",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/clustering_tools.cp314-win_amd64.pyd",
+      "sha256": "2bb36cada1da70a388c18b53182922b2e1d459dcd59f6d967b98abaa78e363b6"
     }
   }
 }
