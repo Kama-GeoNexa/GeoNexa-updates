@@ -1,22 +1,22 @@
 {
-  "app_version": "2.1.1",
-  "app_exe_url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v2.1.1/GeoNexa.exe",
+  "app_version": "1.1.1",
+  "app_exe_url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/GeoNexa.exe",
   "app_exe_sha256": "f34c3d4d148db37f0837a31692e0f20c3142864ca6cc5e704f3d5819f8ece341",
-  "app_notes": "GeoNexa 2.1.1 Update",
+  "app_notes": "Pembaruan Modul v1.1.5",
   "modules": {
     "clustering_tools.cp314-win_amd64.pyd": {
-      "version": "2.1.1",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v2.1.1/clustering_tools.cp314-win_amd64.pyd",
+      "version": "1.1.5",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.5/clustering_tools.cp314-win_amd64.pyd",
       "sha256": "4b734213146b0ac39b20f58f01581deeb696d40d9149448278ca9169e5e9d38c"
     },
     "extraction_tools.cp314-win_amd64.pyd": {
-      "version": "2.1.1",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v2.1.1/extraction_tools.cp314-win_amd64.pyd",
+      "version": "1.1.5",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.5/extraction_tools.cp314-win_amd64.pyd",
       "sha256": "2322220e4ccaa66c38caecfe483e418c7d1dc139963cd9c9d9d9cb1da2f9cf59"
     },
     "odbc_tools.cp314-win_amd64.pyd": {
-      "version": "2.1.1",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v2.1.1/odbc_tools.cp314-win_amd64.pyd",
+      "version": "1.1.5",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.5/odbc_tools.cp314-win_amd64.pyd",
       "sha256": "f699776bf1ab248fb4dcb538363d0e14c59a6fe3159086836661838f830ac298"
     }
   }
