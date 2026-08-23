@@ -12,12 +12,12 @@
     "extraction_tools.cp314-win_amd64.pyd": {
       "version": "1.1.5",
       "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/extraction_tools.cp314-win_amd64.pyd",
-      "sha256": "2322220e4ccaa66c38caecfe483e418c7d1dc139963cd9c9d9d9cb1da2f9cf59"
+      "sha256": "2322220e4ccaa66c38caecfe483e418c7d1dc139963cd9c9d9cb1da2f9cf59"
     },
     "odbc_tools.cp314-win_amd64.pyd": {
-      "version": "1.1.5",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.1/odbc_tools.cp314-win_amd64.pyd",
-      "sha256": "f699776bf1ab248fb4dcb538363d0e14c59a6fe3159086836661838f830ac298"
+      "version": "1.1.6",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.6/odbc_tools.cp314-win_amd64.pyd",
+      "sha256": "876b16aaf45cefd30b61f5d935961b4d828d827805cb1061fbaff4f0e4f5f37e"
     }
   }
 }
