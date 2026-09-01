@@ -5,9 +5,9 @@
   "app_notes": "GeoNexa 1.1.5",
   "modules": {
     "clustering_tools.cp314-win_amd64.pyd": {
-      "version": "1.1.5",
-      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.5/clustering_tools.cp314-win_amd64.pyd",
-      "sha256": "4b734213146b0ac39b20f58f01581deeb696d40d9149448278ca9169e5e9d38c"
+      "version": "1.1.7",
+      "url": "https://github.com/Kama-GeoNexa/GeoNexa-updates/releases/download/v1.1.7/clustering_tools.cp314-win_amd64.pyd",
+      "sha256": "3e97b909616a7a1748510ea398b6ec3894e61dd1e629307c0e0d3462895bfb26"
     },
     "extraction_tools.cp314-win_amd64.pyd": {
       "version": "1.1.5",
